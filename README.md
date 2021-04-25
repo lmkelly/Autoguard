@@ -1,6 +1,6 @@
 ### Autoguard: Wireguard Automated
 
-Autoguard is a faarly lightweight solution created to make Wireguard function within an enterprise without the end user having direct access to the server in an easy and user-friendly way.
+Autoguard is a fairly lightweight solution created to make Wireguard function within an enterprise without the end user having direct access to the server in an easy and user-friendly way.
 
 #### How does it work?
 
