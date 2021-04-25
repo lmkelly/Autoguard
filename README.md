@@ -1,1 +1,1 @@
-# Welcome to Autoguard
+# Autoguard: Wireguard Automated
