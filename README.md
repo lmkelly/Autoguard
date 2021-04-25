@@ -10,6 +10,6 @@ In addition to Wireguard, the server is also running an osTicket webserver, whic
 
 [Installing osTicket](https://github.com/lmkelly/Autoguard/wiki/Installing-OSTicket), [Email monitoring with osTicket](https://github.com/lmkelly/Autoguard/wiki/Configuring-Email-monitoring-on-OSTicket) and [osTicket storage-fs plugin](https://github.com/lmkelly/Autoguard/wiki/Installing-and-Configuring-storage-fs-plugin-on-osTicket)
 
-
+### Disclaimer: This software has NOT been properly secured and is rather a proof of concept. Be sure to look into adding a layer of authentication before adding this to a production enviroment
 
 
