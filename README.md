@@ -8,4 +8,8 @@ In addition to Wireguard, the server is also running an osTicket webserver, whic
 
 #### See the Wiki for resources to help building your enviroment
 
-[Installing osTicket](https://github.com/lmkelly/Autoguard/wiki/Installing-OSTicket)
+[Installing osTicket](https://github.com/lmkelly/Autoguard/wiki/Installing-OSTicket), [Email monitoring with osTicket](https://github.com/lmkelly/Autoguard/wiki/Configuring-Email-monitoring-on-OSTicket) and [osTicket storage-fs plugin](https://github.com/lmkelly/Autoguard/wiki/Installing-and-Configuring-storage-fs-plugin-on-osTicket)
+
+
+
+
