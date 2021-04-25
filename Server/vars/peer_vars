@@ -1,0 +1,5 @@
+[Peer]
+PublicKey = #Server PubKey
+AllowedIPs = 192.168.10.0/24
+Endpoint = #Server pub IP:WG port
+PersistentKeepalive = 25
